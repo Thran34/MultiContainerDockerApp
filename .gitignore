@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+
+# React
+/build/
+/dist/
+
+# MongoDB
+/data/
+/db/
+
+# Docker
+.docker/
+.docker-compose.yml
+.dockerignore
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Docker Compose
+docker-compose.override.yml
+docker-compose.override.yml.example
